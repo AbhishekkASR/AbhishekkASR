@@ -1,22 +1,16 @@
 # 💫 About Me:
 
 👨‍💻 **Computer & Communication Engineering graduate** focused on **Software Development, AI/ML, and Backend Engineering**.<br><br>
-
 🔭 **Currently working on**<br>
 AI-powered applications, backend APIs, and full-stack projects using Python, FastAPI, React, and machine learning.<br><br>
-
 🧠 **Interested in**<br>
 Artificial Intelligence, Machine Learning, Backend Development, REST APIs, and solving real-world problems through software.<br><br>
-
 🌱 **Currently learning**<br>
 Advanced AI/ML, NLP, system design, backend architecture, and production-ready application development.<br><br>
-
 💻 **Projects**<br>
 Building projects such as **TalentMatch AI, ChurnShield, FitCast, and Skin Disease Prediction AI**, combining software engineering with AI/ML.<br><br>
-
 💬 **Ask me about**<br>
 Python, C++, FastAPI, React, SQL, Machine Learning, NLP, APIs, and Data Structures & Algorithms.<br><br>
-
 ⚡ **Fun fact**<br>
 I enjoy turning ideas into functional projects and continuously improving them through code.
 
